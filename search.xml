@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/11/30/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>我是如何搭的这个Blog</title>
+    <url>/2020/12/01/hello-world/</url>
+    <content><![CDATA[<h2 id="为什么搭"><a href="#为什么搭" class="headerlink" title="为什么搭"></a>为什么搭</h2><p>最近突然想搭自己的博客。</p>
+<p>在网上冲浪久了，觉得学习中曾经遇到很多阻碍，因为有的技术工具的相关资料比较少，所以寻找问题的解答过程中花了不少功夫。我想如果我能把我学习某个新知识的过程、途中踩的坑、找到的有用资料整理在这里，那么也许能帮助到其他人。这在某种程度上也算是一种知识的生产吧。</p>
+<p>当然也有自身的原因，我觉得以前自己学东西很不严谨，经常查了资料草草解决作业问题就完事，过一段时间回来看相同的问题还是完全不会（尤其是算法），所以我也想用这个博客来督促自己认真学习和记笔记。</p>
+<p>我还想在这里放一些自己比较喜欢的照片，算是对生活的一种记录。</p>
+<p>可能会记一些所见所想。</p>
+<h2 id="怎么搭的"><a href="#怎么搭的" class="headerlink" title="怎么搭的"></a>怎么搭的</h2><p>我在知乎上看到这个文章，<a href="https://zhuanlan.zhihu.com/p/26625249/">GitHub+Hexo 搭建个人网站详细教程</a><br>，也就是把Hexo框架的页面部署到Github Pages上，感觉不错，所以决定参照这个搭。</p>
+<p>在<a href="https://hexo.io/themes/">Hexo的theme网页</a>上逛了半天之后，我决定选目前这个主题。觉得很简约很好看，在移动端的显示效果也不错。</p>
+<p>我的图床方案是参照这个博客，<a href="https://blog.csdn.net/qq_36759224/article/details/98058240">Github+jsDelivr+PicGo 打造稳定快速、高效免费图床</a>，我的图床的github链接是<a href="">link</a></p>
+<p>不过国内访问github.io可能比较慢，所以之后有时间的话我会考虑要不要部署到gitee上。</p>
+<p>后续还想花点时间研究下Hexo框架，向其中加一点东西。</p>
+<p>比如目前的这个主题没有按照tag来分类文章的功能，比如如何给照片增加说明文字。</p>
+<h2 id="关于能否坚持写"><a href="#关于能否坚持写" class="headerlink" title="关于能否坚持写"></a>关于能否坚持写</h2><p>我真的超级懒，边写边看咯~</p>
 ]]></content>
   </entry>
 </search>
